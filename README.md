@@ -1,7 +1,7 @@
 # Java-Data-Transformer
 A data transformer that transforms data from and to XML, JSON and CSV. Written with FasterXML's Jackson library
-Documentation
 -----------------------------------------------------------------------------------------------------------------------------------
+##Documentation
 All you need to do is to import the jar as a dependency and create an instance for the Controller class and use the conversion methods in it.
 ```java
 Controller ctrl = new Controller();
